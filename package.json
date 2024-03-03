@@ -1,0 +1,9 @@
+{
+  "name": "veml6075",
+  "version": "1.0.8",
+  "description": "NodeJS module for controlling VEML6075 on Raspberry Pi",
+  "main": "veml6075.js",
+  "author": "karnatik",
+  "license": "MIT",
+  "keywords": "veml6075,nodejs"
+}
