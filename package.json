@@ -5,5 +5,10 @@
   "main": "veml6075.js",
   "author": "karnatik",
   "license": "MIT",
-  "keywords": "veml6075,nodejs"
+  "keywords": ["veml6075","nodejs"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karnatik/VEML6075.git"
+  },
+  "homepage": "https://github.com/karnatik/VEML6075"
 }
